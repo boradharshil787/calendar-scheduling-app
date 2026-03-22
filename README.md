@@ -1,6 +1,6 @@
 # CalSync — Senior Frontend Assignment
 
-**Live Deployment:** [Insert Vercel URL Here]
+**Live Deployment:** [https://calendar-scheduling-app-1bln.vercel.app]
 
 ## 🚀 Setup Instructions
 1. Clone the repository
